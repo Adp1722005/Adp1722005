@@ -12,25 +12,25 @@
 
 📈 What I Do:
 
-- Build and automate dashboards to support data-driven decision making
-
-- Analyze trends, uncover insights, and present findings with clarity
-
-- Develop and maintain responsive websites and internal tools
-
-- Write clean, efficient code to solve business and data challenges
+    - Build and automate dashboards to support data-driven decision making
+  
+    - Analyze trends, uncover insights, and present findings with clarity
+  
+    - Develop and maintain responsive websites and internal tools
+  
+    - Write clean, efficient code to solve business and data challenges
 
 🛠️ Tech Stack:
 
-SQL | R | Python | Tableau | Power BI | Salesforce | HTML | CSS | JavaScript | PHP | WordPress |
+    SQL | R | Python | Tableau | Power BI | Salesforce | HTML | CSS | JavaScript | PHP | WordPress |
 
 🔗 Featured Projects:
 
-📈 Fuel Consumption Data Analysis – Predictive modeling with 92% accuracy
-
-🤖 Construction Safety Open hole Detection Capstone (Bit Space Development Inc.) – Deep learning with 81% accuracy using Roboflow + Python 
-
-🛍️ Digital Marketing Website (RC Diamonds) - SEO-optimized website & UX
+    📈 Fuel Consumption Data Analysis – Predictive modeling with 92% accuracy
+    
+    🤖 Construction Safety Open hole Detection Capstone (Bit Space Development Inc.) – Deep learning with 81% accuracy using Roboflow + Python 
+    
+    🛍️ Digital Marketing Website (RC Diamonds) - SEO-optimized website & UX
 
 
 Let’s connect, collaborate, and create something impactful!
