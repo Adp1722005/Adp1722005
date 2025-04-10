@@ -21,6 +21,7 @@
 - Write clean, efficient code to solve business and data challenges
 
 🛠️ Tech Stack:
+
 SQL | R | Python | Tableau | Power BI | Salesforce | HTML | CSS | JavaScript | PHP | WordPress |
 
 🔗 Featured Projects:
@@ -31,7 +32,8 @@ SQL | R | Python | Tableau | Power BI | Salesforce | HTML | CSS | JavaScript | P
 
 🛍️ Digital Marketing Website (RC Diamonds) - SEO-optimized website & UX
 
-📬 Let’s connect, collaborate, and create something impactful!
+
+Let’s connect, collaborate, and create something impactful!
 <!--
 **Adp1722005/Adp1722005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
