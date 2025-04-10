@@ -1,14 +1,14 @@
 ## Hi there 👋 I’m Aditi, a data analyst and developer passionate about turning data into actionable insights and building user-focused digital solutions.
 
-🎓 Master’s in Analytics
-
-💼 Experience in analytics, customer strategy, web development, and dashboard automation 
-
-📊 Love working on real-world data challenges, predictive modeling, and end-to-end data pipelines
-
-🌐 Web dev enthusiast — check out my recent work for Bit Space Development Inc. and RC Diamonds
-
-📍 Currently in Canada | Open to collaboration and opportunities in data, analytics, and product
+    🎓 Master’s in Analytics
+    
+    💼 Experience in analytics, customer strategy, web development, and dashboard automation 
+    
+    📊 Love working on real-world data challenges, predictive modeling, and end-to-end data pipelines
+    
+    🌐 Web dev enthusiast — check out my recent work for Bit Space Development Inc. and RC Diamonds
+    
+    📍 Currently in Canada | Open to collaboration and opportunities in data, analytics, and product
 
 📈 What I Do:
 
